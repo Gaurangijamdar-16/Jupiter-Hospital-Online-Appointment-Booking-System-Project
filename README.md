@@ -1,3 +1,5 @@
+[![Jupiter-Hospital-Online-Appointment-Booking-System Banner](5_Wireframes/Banner.png)](5_Wireframes/Banner.png)
+
 # 🏥 Jupiter Hospital – Appointment Booking System Enhancement
 
 ## 📌 Project Overview
