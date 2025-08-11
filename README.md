@@ -1,4 +1,4 @@
-<img width="452" height="277" alt="Jupiter Github Banner" src="https://github.com/user-attachments/assets/ed1e10db-bc7c-49cc-93b6-2c0f27c58ff0" />
+<img width="1103" height="686" alt="Jupiter Github Banner" src="https://github.com/user-attachments/assets/d4452607-3a9a-4785-863c-fe51835d6a02" />
 
 
 # 🏥 Jupiter Hospital – Appointment Booking System Enhancement
