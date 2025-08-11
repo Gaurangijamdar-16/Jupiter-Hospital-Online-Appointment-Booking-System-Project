@@ -93,14 +93,11 @@ These changes will significantly improve operations, transparency, and user expe
 > Location: `5_Wireframes/`
 
 - Patient Booking Flow  
-  ![Wireframe 1](5_Wireframes/Wireframe_1.png)  
   ![Wireframe 2](5_Wireframes/Wireframe_2.png)  
   ![Wireframe 3](5_Wireframes/Wireframe_3.png)  
   ![Wireframe 4](5_Wireframes/Wireframe_4.png)  
-  ![Wireframe 5](5_Wireframes/Wireframe_5.png)  
   ![Wireframe 6](5_Wireframes/Wireframe_6.png)  
   ![Wireframe 7](5_Wireframes/Wireframe_7.png)  
-  ![Wireframe 8](5_Wireframes/Wireframe_8.png)
 
 ---
 
