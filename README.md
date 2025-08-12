@@ -1,4 +1,4 @@
-[![Jupiter Hospital Banner](5_Wireframes/Banner.png)](5_Wireframes/Banner.png)
+[![Jupiter Hospital Banner](5_Wireframes/Bannerrr.png)](5_Wireframes/Bannerrr.png)
 
 # 🏥 Jupiter Hospital – Appointment Booking System Enhancement
 
